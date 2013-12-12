@@ -1,9 +1,11 @@
-/*
- * robot3.c
- *
- *  Created on: Dec 10, 2013
- *      Author: C15Christopher.Boula
- */
+/*Robot Racer robot.c
+
+//Robot Racer implementation program
+//Author: Christopher Boulanger
+//Created: 19 November 2013
+ * Edited: 9 December 2013
+//Description: This program implements motor initializations and the pulse width modulation required for varying speeds.
+ * */
 
 
 #include "robot.h"
